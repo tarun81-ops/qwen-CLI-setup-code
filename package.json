@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "typescript.js",
   "dependencies": {
+    "@mendable/firecrawl-js": "^4.40.0",
     "@openrouter/sdk": "^1.2.145",
     "dotenv": "^16.x.x"
   }
