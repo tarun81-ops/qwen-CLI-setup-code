@@ -88,3 +88,7 @@ agentic/
 - The model used (`nvidia/nemotron-3-ultra-550b-a55b:free`) is free on OpenRouter, so no billing is required to use this script as-is.
 - To switch models, change the `model:` value in `typescript.js` to any model ID listed on [openrouter.ai/models](https://openrouter.ai/models).
 - This is a plain chat client — it does not yet have the ability to run commands or take actions on your machine (no tool/function calling implemented).
+# for powershell
+    cd "C:\Users\tarun verma\agentic"
+    node typescript.js
+    exit
