@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "agentic",
+  "version": "1.0.0",
+  "main": "typescript.js",
+  "dependencies": {
+    "@openrouter/sdk": "^1.2.145",
+    "dotenv": "^16.x.x"
+  }
+}
